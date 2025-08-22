@@ -78,9 +78,9 @@
 |--------|-------------|----------|------------|--------|
 | Module 00 | Syllabus | https://aka.ms/AZ-104-BW  | | Neeraj Kumar |
 | Module 01 | Identity | https://aka.ms/AZ-104-MOD1 | https://aka.ms/AZ-104-FCM1 | Neeraj Kumar |
-| Module 02 | Governance and Compliance | https://aka.ms/AZ-104-MOD2 | https://aka.ms/AZ-104-FCM2 | Neeraj Kumar |
-| Module 03 | Azure Administration | https://aka.ms/AZ-104-MOD3 | https://aka.ms/AZ-104-FCM3 | Neeraj Kumar |
-
+| Module 07 | Azure Storage | https://aka.ms/AZ-104-MOD7 | https://aka.ms/AZ-104-FCM7 | Neeraj Kumar |
+| Module 08 | Azure Virtual Machines | https://aka.ms/AZ-104-MOD8 | https://aka.ms/AZ-104-FCM8 | Neeraj Kumar |
+| Module 09 | App Service | https://aka.ms/AZ-104-MOD9 | https://aka.ms/AZ-104-FCM9 | Neeraj Kumar |
 
 
 ### AZ-1002
